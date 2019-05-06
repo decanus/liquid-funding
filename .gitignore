@@ -10,7 +10,7 @@ coverage
 lib/
 node_modules/
 .DS_Store
-src/embarkArtifacts
+src/embarkArtifacts/
 
 .mypy_cache
 __pycache__
