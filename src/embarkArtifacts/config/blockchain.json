@@ -1,7 +1,0 @@
-{
-  "dappConnection": [
-    "$WEB3"
-  ],
-  "dappAutoEnable": true,
-  "blockchainClient": "geth"
-}
