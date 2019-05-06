@@ -10,7 +10,6 @@ coverage
 lib/
 node_modules/
 .DS_Store
-embarkArtifacts
 
 .mypy_cache
 __pycache__
@@ -29,8 +28,6 @@ config/development/password
 config/privatenet/password
 config/testnet/password
 coverage
-dist
-build/
 lib/
 node_modules/
 .DS_Store
