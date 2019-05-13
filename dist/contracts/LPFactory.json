@@ -1,4 +1,5 @@
 {
+  "address": "0x968F0a788F29b5B33296C61cEB34F1c40C55e52c",
   "args": {
     "_vaultBase": "$LPVault",
     "_lpBase": "$LiquidPledging"
@@ -429,6 +430,7 @@
   "path": "/Users/iurimatias/Projects/Status/liquid-funding/contracts/LPFactory.sol",
   "gas": "auto",
   "type": "file",
+  "deployedAddress": "0x968F0a788F29b5B33296C61cEB34F1c40C55e52c",
   "deploy": true,
   "_gasLimit": 6000000,
   "error": false,
@@ -436,7 +438,5 @@
   "realArgs": [
     "0xa25AB823c5A79941a8a9d0ab525D888cA1513419",
     "0x07E92635AF5e524C20B20F2770aE0E0Ef597eD07"
-  ],
-  "address": "0x968F0a788F29b5B33296C61cEB34F1c40C55e52c",
-  "deployedAddress": "0x968F0a788F29b5B33296C61cEB34F1c40C55e52c"
+  ]
 }

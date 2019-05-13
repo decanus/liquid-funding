@@ -1,4 +1,5 @@
 {
+  "address": "0x6Fc67b94c1431EC423D6598b092F2a8bCcD4e698",
   "file": "@aragon/os/contracts/kernel/Kernel.sol",
   "className": "Kernel",
   "args": [],
@@ -795,11 +796,10 @@
   "path": "/Users/iurimatias/Projects/Status/liquid-funding/node_modules/@aragon/os/contracts/kernel/Kernel.sol",
   "gas": "auto",
   "type": "file",
+  "deployedAddress": "0x6Fc67b94c1431EC423D6598b092F2a8bCcD4e698",
   "deploy": true,
   "_gasLimit": 6000000,
   "error": false,
   "deploymentAccount": "0xDE2c8221b82e3D285EBAf31325be7D43E6724Def",
-  "realArgs": [],
-  "address": "0x6Fc67b94c1431EC423D6598b092F2a8bCcD4e698",
-  "deployedAddress": "0x6Fc67b94c1431EC423D6598b092F2a8bCcD4e698"
+  "realArgs": []
 }
